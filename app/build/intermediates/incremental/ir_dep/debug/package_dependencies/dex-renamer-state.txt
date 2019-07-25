@@ -1,4 +1,4 @@
-#Thu Jul 25 23:29:01 BST 2019
+#Thu Jul 25 23:47:40 BST 2019
 base.0=/Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/build/intermediates/transforms/dexMerger/debug/10
 path.1=classes2.dex
 renamed.1=classes2.dex

@@ -4,7 +4,7 @@
             "outputFile": "/Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rSG/values-en-rSG.xml",
             "map": [
                 {
-                    "source": "/Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/be52d4fd6c2276b948e96a4d8cf5830d/res/values-en-rSG/values.xml",
+                    "source": "/Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/46d68e922678f9dbec12a4774e257528/res/values-en-rSG/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
