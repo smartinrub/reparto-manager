@@ -1,0 +1,1043 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:2:1-45:12
+MERGED from [com.android.support:multidex:1.0.3] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/9ff8e291ea48eaa8334ab9aec41d7851/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/6d474d079830617e8a32e14a4cbaae69/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/78624e65630cafcd722ca406b29b305c/AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/406e410e401dcf92ca45e91d698e6656/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:mediarouter-v7:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/7ffc4bb8ac92da59edd34a777dfccd86/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/0749bfa4a4a3fe9c003ac910835b3f6c/AndroidManifest.xml:17:1-31:12
+MERGED from [com.github.jd-alexander:library:1.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/13c293c33ea694ce4c15e0fa0f9cfbd3/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/234a239957d73c99c093b3fcb4e8bd1a/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/7569639c6afa5481be7475c19a320a38/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/b33d05cd3dd2aa791d0b3b5649ef0539/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/9766541279b771555f96f079974edd2c/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/f775b134ad859ca9a41a9f0f61ecc3d5/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.android.gms:play-services-tagmanager:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/689c8ca08bf564ccac30c69a937cec84/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/844c4609dbb597451fdf4c33865c57a6/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/6c4bdcc530efc6e34e644b587d31d16d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/10aa90f82df406d898240307e24dace2/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/6644b31e8688510fe2c56468cbb1207e/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/43d285e45421e1559892e0b96dc73b5e/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/32c511a3a675f2b88b80a2d0516ec7ba/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-config:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/808a8dc6c8cac97a39a01ecd59d59b23/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/1a7b8babfd29f170ed22b18e42e10f73/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-games:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/29b0d67809a5e3a8e107111c02700892/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/8475ff0b13b4983e27d3e96ca9b77fe9/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/903cf3d3ff5e20171167b896c9c6094c/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/0d5c7aa2553b2410f9b76fc03e40230e/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/74c5b64c2a0db36a259f6a3b7201e262/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/cb1213e8ac81cab699997a9edd99586e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/f8f2f4eaf4dfd44128cc19d4ae902802/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/f00ba7d8fff00ddda36e7d00a9c49d49/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wallet:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/be52d4fd6c2276b948e96a4d8cf5830d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/58ee0700ba6e2a0bdbc83a5d27244676/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/5677f092a04f7c9ba525f746fee46520/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-instantapps:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/ac07518a6d8e5367bade7f624065816d/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/00de75d8a24c10ff5ba2dc21805c74d1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/3fd192a08b21d8edd6d84bb3312a7c0a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/04e8d770e966c917bcdc56fe045fc9a0/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/19a20b8ccd784bc6b937325c27a4d324/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/ab17a1787f734b44508d47fb0521dc85/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/512f2f150afe5a128091c8ce15c33d56/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/65b893a2fbcb6db22b2c993b69c4fee2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/c70918afaaab9e37fd564ac87e2b7090/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/d51e21649597579a292d577b149dca17/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/37685d81f7c2f54ee62984e38ada8db7/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/594a982996efed009a2248c5ef789e96/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/de4acc0e853394646698ed93fc067bc6/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.firebase:firebase-database:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/ff186a914d7d651671035a376debe881/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/4f27d7432f1a9e7722d0cd8e5059e909/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/1cf03d29156a4f9547f2f7c16010d25b/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/9f8c23ba602471dd8444d60b794c3c2c/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/8cb5602ef65362b09d25412e26053168/AndroidManifest.xml:17:1-54:12
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/3095286e07c672bdb562bd3ff6895bc9/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/ff63dde7bea773f80c2bd6b028189470/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-storage:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/46fe31473c7fdcd4bdd576473c8679fd/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/593ccc240983620b46b2f865b374f95e/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-common:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/94e6b70848b21b84b66239b7f9a73005/AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/50cb73f005bfe2f9324b344e3e038475/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/cc966b64a296490233dc4d258104c7b9/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/294c1327d1da26c1670c60ac9e511802/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/b0d05e22ddb31ffc72c9c56724e7b631/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/f8238d5e79ce2f9d22abcca03e379eb8/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/8f360d369258d716fe78c5475da537a9/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:palette-v7:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/db6420a210b3c894a003dd41f60c06d3/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/4a5b3d628ee7fdd425ec0f2b63a37547/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/c44fed0775cc3462f387dca147b14968/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/394b60b2ed141931326601cb2256071d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/39be99b41d112ed7af45ba4aeddf4576/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/b60f317da940c5f9c3906979e7e53983/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/db8f74bdf79f510d001d03f9a5e286dd/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/12046b4705e34c59a3228dca5aec34f5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/936e9e427176258464c53fc490c2fa7d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/b15d6046fb0f5bd840afa1b9a5c01920/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/c15ac7f9c9731765ea2ab1d30560dd5a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/b45978849c50b014e1afc8946fb1587d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/31af5b3904c95018ea4c5da12d643da5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/816a11a793060bf17aa9e38ae548b94a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/c4f438ca8e00de6ce1dcb250e16f9a30/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/c2b193fc7a0c75f4f193b58cef268d5f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/c1af80306982d0430efd5dd95ddd77d4/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/a95e7e2cefbf3f9cb47f9f2893ad3a1e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/6fea7e6be3176bee001efe5c3ec5fda8/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/619ff39fa684f8fb198dfb7972515be9/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/ef21dba127b331397d46e77740768d74/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/0a54e03cb1be653d71030eea809f8139/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/99356a7496baa576cf95c9124c6505f2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/b2365f097d0e1d37ea7c32be98c6afe5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/d8ff6275e3294af91295c509fac51f1e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/b2a8eddf337b92fa70874dd39c0c6ae9/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/a179c3c3b0d45f516005ac7e3dd61d07/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/9aedfd1dd06d6cd050bbb54dd6246f0f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/454d47220af757a213ad9a049b19e10b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/9ba2055c2c82b4ce197b7b54b055162d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/1e8da371fb08d6319688b9a089da4856/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/2f4ec650b1a584b269b13a074e01cad6/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/dadcd1448892fa431c64eaf1c2d90ad7/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/3b8912ee1297189e53853b29c25b5223/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/e782cfa47dc1393fae32821525d3097e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/94b451f29f4f7bbb2c8050720fe061d6/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/4d25d847aa23674f7b8c618b7efe798a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/dc8db345a176733445fb0e4f40ad2148/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/d4af38850d7837ebcf594fe7af42f03d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/4d15d5ab1ef734b3055a030ac980e64d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/3f40c200ab2ed3fcc12461715f4186d2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/fc013951739c52016a4b6ecb701b8af1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/60563256488753c65be9f4c557184de3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/f8cf2b21819159086000568a228aa016/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/f08da363994b21808aa5d44ceb972d64/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/5142f4f6943eb42fc03763a6089ef5bd/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/c655215a4c85858ce174e3c8e00b145c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/c73f4afafad508824924077c1487e7e6/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/857cae643055a65b5340f9058b71e278/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/b787452b727ed2379ecdaf34eb19e564/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/db87abb8e26526de52e950db23a2d1c4/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/55944a4baf91ae7b2143f2c6dc577cc0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/29c8222a105d15cd705bf9dce1241f09/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/82891d579cd993c5e2d664abe60ffd03/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/669a6aefeec1917ca6e95e1cc7345d9c/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:2:1-45:12
+	package
+		ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml
+		ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:2:1-45:12
+		INJECTED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml
+		ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:2:1-45:12
+		INJECTED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:5:5-69
+	android:name
+		ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:5:22-66
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:11:22-78
+uses-feature#0x00020000
+ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:13:5-15:35
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/04e8d770e966c917bcdc56fe045fc9a0/AndroidManifest.xml:26:5-28:35
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/04e8d770e966c917bcdc56fe045fc9a0/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:14:9-41
+	android:required
+		ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:15:9-32
+application
+ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:17:5-43:19
+MERGED from [com.google.android.gms:play-services:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/6d474d079830617e8a32e14a4cbaae69/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/6d474d079830617e8a32e14a4cbaae69/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/78624e65630cafcd722ca406b29b305c/AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/78624e65630cafcd722ca406b29b305c/AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/406e410e401dcf92ca45e91d698e6656/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/406e410e401dcf92ca45e91d698e6656/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:mediarouter-v7:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/7ffc4bb8ac92da59edd34a777dfccd86/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:mediarouter-v7:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/7ffc4bb8ac92da59edd34a777dfccd86/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/0749bfa4a4a3fe9c003ac910835b3f6c/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/0749bfa4a4a3fe9c003ac910835b3f6c/AndroidManifest.xml:25:5-29:19
+MERGED from [com.github.jd-alexander:library:1.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/13c293c33ea694ce4c15e0fa0f9cfbd3/AndroidManifest.xml:11:5-20
+MERGED from [com.github.jd-alexander:library:1.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/13c293c33ea694ce4c15e0fa0f9cfbd3/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/234a239957d73c99c093b3fcb4e8bd1a/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/234a239957d73c99c093b3fcb4e8bd1a/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/7569639c6afa5481be7475c19a320a38/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/7569639c6afa5481be7475c19a320a38/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/9766541279b771555f96f079974edd2c/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/9766541279b771555f96f079974edd2c/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/f775b134ad859ca9a41a9f0f61ecc3d5/AndroidManifest.xml:29:5-45:19
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/f775b134ad859ca9a41a9f0f61ecc3d5/AndroidManifest.xml:29:5-45:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/844c4609dbb597451fdf4c33865c57a6/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/844c4609dbb597451fdf4c33865c57a6/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/6c4bdcc530efc6e34e644b587d31d16d/AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/6c4bdcc530efc6e34e644b587d31d16d/AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/10aa90f82df406d898240307e24dace2/AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/10aa90f82df406d898240307e24dace2/AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/6644b31e8688510fe2c56468cbb1207e/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/6644b31e8688510fe2c56468cbb1207e/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.firebase:firebase-config:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/808a8dc6c8cac97a39a01ecd59d59b23/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/808a8dc6c8cac97a39a01ecd59d59b23/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/1a7b8babfd29f170ed22b18e42e10f73/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/1a7b8babfd29f170ed22b18e42e10f73/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/29b0d67809a5e3a8e107111c02700892/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/29b0d67809a5e3a8e107111c02700892/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/8475ff0b13b4983e27d3e96ca9b77fe9/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/8475ff0b13b4983e27d3e96ca9b77fe9/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/903cf3d3ff5e20171167b896c9c6094c/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/903cf3d3ff5e20171167b896c9c6094c/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/0d5c7aa2553b2410f9b76fc03e40230e/AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/0d5c7aa2553b2410f9b76fc03e40230e/AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/74c5b64c2a0db36a259f6a3b7201e262/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/74c5b64c2a0db36a259f6a3b7201e262/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/cb1213e8ac81cab699997a9edd99586e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/cb1213e8ac81cab699997a9edd99586e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/f8f2f4eaf4dfd44128cc19d4ae902802/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/f8f2f4eaf4dfd44128cc19d4ae902802/AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/f00ba7d8fff00ddda36e7d00a9c49d49/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/f00ba7d8fff00ddda36e7d00a9c49d49/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/58ee0700ba6e2a0bdbc83a5d27244676/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/58ee0700ba6e2a0bdbc83a5d27244676/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/5677f092a04f7c9ba525f746fee46520/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/5677f092a04f7c9ba525f746fee46520/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/00de75d8a24c10ff5ba2dc21805c74d1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/00de75d8a24c10ff5ba2dc21805c74d1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/3fd192a08b21d8edd6d84bb3312a7c0a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/3fd192a08b21d8edd6d84bb3312a7c0a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/04e8d770e966c917bcdc56fe045fc9a0/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/04e8d770e966c917bcdc56fe045fc9a0/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/19a20b8ccd784bc6b937325c27a4d324/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/19a20b8ccd784bc6b937325c27a4d324/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/ab17a1787f734b44508d47fb0521dc85/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/ab17a1787f734b44508d47fb0521dc85/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/512f2f150afe5a128091c8ce15c33d56/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/512f2f150afe5a128091c8ce15c33d56/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/65b893a2fbcb6db22b2c993b69c4fee2/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/65b893a2fbcb6db22b2c993b69c4fee2/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/c70918afaaab9e37fd564ac87e2b7090/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/c70918afaaab9e37fd564ac87e2b7090/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/d51e21649597579a292d577b149dca17/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/d51e21649597579a292d577b149dca17/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/37685d81f7c2f54ee62984e38ada8db7/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/37685d81f7c2f54ee62984e38ada8db7/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/594a982996efed009a2248c5ef789e96/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/594a982996efed009a2248c5ef789e96/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/de4acc0e853394646698ed93fc067bc6/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/de4acc0e853394646698ed93fc067bc6/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/1cf03d29156a4f9547f2f7c16010d25b/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/1cf03d29156a4f9547f2f7c16010d25b/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/9f8c23ba602471dd8444d60b794c3c2c/AndroidManifest.xml:26:5-45:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/9f8c23ba602471dd8444d60b794c3c2c/AndroidManifest.xml:26:5-45:19
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/8cb5602ef65362b09d25412e26053168/AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/8cb5602ef65362b09d25412e26053168/AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/3095286e07c672bdb562bd3ff6895bc9/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/3095286e07c672bdb562bd3ff6895bc9/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/ff63dde7bea773f80c2bd6b028189470/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/ff63dde7bea773f80c2bd6b028189470/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-common:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/94e6b70848b21b84b66239b7f9a73005/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/94e6b70848b21b84b66239b7f9a73005/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/50cb73f005bfe2f9324b344e3e038475/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/50cb73f005bfe2f9324b344e3e038475/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/cc966b64a296490233dc4d258104c7b9/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/cc966b64a296490233dc4d258104c7b9/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/294c1327d1da26c1670c60ac9e511802/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/294c1327d1da26c1670c60ac9e511802/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/b0d05e22ddb31ffc72c9c56724e7b631/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/b0d05e22ddb31ffc72c9c56724e7b631/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/f8238d5e79ce2f9d22abcca03e379eb8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/f8238d5e79ce2f9d22abcca03e379eb8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/8f360d369258d716fe78c5475da537a9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/8f360d369258d716fe78c5475da537a9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:palette-v7:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/db6420a210b3c894a003dd41f60c06d3/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:palette-v7:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/db6420a210b3c894a003dd41f60c06d3/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/4a5b3d628ee7fdd425ec0f2b63a37547/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/4a5b3d628ee7fdd425ec0f2b63a37547/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/c44fed0775cc3462f387dca147b14968/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/c44fed0775cc3462f387dca147b14968/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/394b60b2ed141931326601cb2256071d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/394b60b2ed141931326601cb2256071d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/39be99b41d112ed7af45ba4aeddf4576/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/39be99b41d112ed7af45ba4aeddf4576/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/b60f317da940c5f9c3906979e7e53983/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/b60f317da940c5f9c3906979e7e53983/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/db8f74bdf79f510d001d03f9a5e286dd/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/db8f74bdf79f510d001d03f9a5e286dd/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/12046b4705e34c59a3228dca5aec34f5/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/12046b4705e34c59a3228dca5aec34f5/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/936e9e427176258464c53fc490c2fa7d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/936e9e427176258464c53fc490c2fa7d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/b15d6046fb0f5bd840afa1b9a5c01920/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/b15d6046fb0f5bd840afa1b9a5c01920/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/c15ac7f9c9731765ea2ab1d30560dd5a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/c15ac7f9c9731765ea2ab1d30560dd5a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/b45978849c50b014e1afc8946fb1587d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/b45978849c50b014e1afc8946fb1587d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/31af5b3904c95018ea4c5da12d643da5/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/31af5b3904c95018ea4c5da12d643da5/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/816a11a793060bf17aa9e38ae548b94a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/816a11a793060bf17aa9e38ae548b94a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/c4f438ca8e00de6ce1dcb250e16f9a30/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/c4f438ca8e00de6ce1dcb250e16f9a30/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/c2b193fc7a0c75f4f193b58cef268d5f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/c2b193fc7a0c75f4f193b58cef268d5f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/c1af80306982d0430efd5dd95ddd77d4/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/c1af80306982d0430efd5dd95ddd77d4/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/a95e7e2cefbf3f9cb47f9f2893ad3a1e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/a95e7e2cefbf3f9cb47f9f2893ad3a1e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/6fea7e6be3176bee001efe5c3ec5fda8/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/6fea7e6be3176bee001efe5c3ec5fda8/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/619ff39fa684f8fb198dfb7972515be9/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/619ff39fa684f8fb198dfb7972515be9/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/ef21dba127b331397d46e77740768d74/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/ef21dba127b331397d46e77740768d74/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/0a54e03cb1be653d71030eea809f8139/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/0a54e03cb1be653d71030eea809f8139/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/99356a7496baa576cf95c9124c6505f2/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/99356a7496baa576cf95c9124c6505f2/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/b2365f097d0e1d37ea7c32be98c6afe5/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/b2365f097d0e1d37ea7c32be98c6afe5/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/d8ff6275e3294af91295c509fac51f1e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/d8ff6275e3294af91295c509fac51f1e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/b2a8eddf337b92fa70874dd39c0c6ae9/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/b2a8eddf337b92fa70874dd39c0c6ae9/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/a179c3c3b0d45f516005ac7e3dd61d07/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/a179c3c3b0d45f516005ac7e3dd61d07/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/9aedfd1dd06d6cd050bbb54dd6246f0f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/9aedfd1dd06d6cd050bbb54dd6246f0f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/454d47220af757a213ad9a049b19e10b/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/454d47220af757a213ad9a049b19e10b/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/9ba2055c2c82b4ce197b7b54b055162d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/9ba2055c2c82b4ce197b7b54b055162d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/1e8da371fb08d6319688b9a089da4856/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/1e8da371fb08d6319688b9a089da4856/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/2f4ec650b1a584b269b13a074e01cad6/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/2f4ec650b1a584b269b13a074e01cad6/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/dadcd1448892fa431c64eaf1c2d90ad7/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/dadcd1448892fa431c64eaf1c2d90ad7/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/3b8912ee1297189e53853b29c25b5223/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/3b8912ee1297189e53853b29c25b5223/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/e782cfa47dc1393fae32821525d3097e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/e782cfa47dc1393fae32821525d3097e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/94b451f29f4f7bbb2c8050720fe061d6/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/94b451f29f4f7bbb2c8050720fe061d6/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/4d25d847aa23674f7b8c618b7efe798a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/4d25d847aa23674f7b8c618b7efe798a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/dc8db345a176733445fb0e4f40ad2148/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/dc8db345a176733445fb0e4f40ad2148/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/d4af38850d7837ebcf594fe7af42f03d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/d4af38850d7837ebcf594fe7af42f03d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/4d15d5ab1ef734b3055a030ac980e64d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/4d15d5ab1ef734b3055a030ac980e64d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/3f40c200ab2ed3fcc12461715f4186d2/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/3f40c200ab2ed3fcc12461715f4186d2/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/fc013951739c52016a4b6ecb701b8af1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/fc013951739c52016a4b6ecb701b8af1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/60563256488753c65be9f4c557184de3/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/60563256488753c65be9f4c557184de3/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/f8cf2b21819159086000568a228aa016/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/f8cf2b21819159086000568a228aa016/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/f08da363994b21808aa5d44ceb972d64/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/f08da363994b21808aa5d44ceb972d64/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/5142f4f6943eb42fc03763a6089ef5bd/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/5142f4f6943eb42fc03763a6089ef5bd/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/c655215a4c85858ce174e3c8e00b145c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/c655215a4c85858ce174e3c8e00b145c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/c73f4afafad508824924077c1487e7e6/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/c73f4afafad508824924077c1487e7e6/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/857cae643055a65b5340f9058b71e278/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/857cae643055a65b5340f9058b71e278/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/b787452b727ed2379ecdaf34eb19e564/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/b787452b727ed2379ecdaf34eb19e564/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/db87abb8e26526de52e950db23a2d1c4/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/db87abb8e26526de52e950db23a2d1c4/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/55944a4baf91ae7b2143f2c6dc577cc0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/55944a4baf91ae7b2143f2c6dc577cc0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/29c8222a105d15cd705bf9dce1241f09/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/29c8222a105d15cd705bf9dce1241f09/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/82891d579cd993c5e2d664abe60ffd03/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/82891d579cd993c5e2d664abe60ffd03/AndroidManifest.xml:22:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/669a6aefeec1917ca6e95e1cc7345d9c/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/669a6aefeec1917ca6e95e1cc7345d9c/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:22:9-35
+	android:label
+		ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:21:9-41
+	android:icon
+		ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:20:9-43
+	android:allowBackup
+		ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:19:9-35
+	android:theme
+		ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:23:9-40
+	android:name
+		ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:18:9-68
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:24:9-26:71
+	android:value
+		ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:26:13-68
+	android:name
+		ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:25:13-58
+meta-data#com.google.android.gms.version
+ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:27:9-29:69
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/294c1327d1da26c1670c60ac9e511802/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/294c1327d1da26c1670c60ac9e511802/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:29:13-66
+	android:name
+		ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:28:13-58
+activity#com.sergio.martin.repartomanager.Splash
+ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:31:9-37:20
+	android:name
+		ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:31:19-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:35:27-74
+activity#com.sergio.martin.repartomanager.OrderFactory
+ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:38:9-50
+	android:name
+		ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:38:19-47
+activity#com.sergio.martin.repartomanager.BestOrderInformation
+ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:39:9-58
+	android:name
+		ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:39:19-55
+activity#com.sergio.martin.repartomanager.BestGroupInformation
+ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:40:9-58
+	android:name
+		ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:40:19-55
+activity#com.sergio.martin.repartomanager.Map
+ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:41:9-41
+	android:name
+		ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:41:19-38
+activity#com.sergio.martin.repartomanager.Main
+ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:42:9-51
+	android:name
+		ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:42:19-39
+uses-sdk
+INJECTED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml
+INJECTED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:multidex:1.0.3] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/9ff8e291ea48eaa8334ab9aec41d7851/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/9ff8e291ea48eaa8334ab9aec41d7851/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/6d474d079830617e8a32e14a4cbaae69/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/6d474d079830617e8a32e14a4cbaae69/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/78624e65630cafcd722ca406b29b305c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/78624e65630cafcd722ca406b29b305c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/406e410e401dcf92ca45e91d698e6656/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/406e410e401dcf92ca45e91d698e6656/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:mediarouter-v7:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/7ffc4bb8ac92da59edd34a777dfccd86/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:mediarouter-v7:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/7ffc4bb8ac92da59edd34a777dfccd86/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/0749bfa4a4a3fe9c003ac910835b3f6c/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/0749bfa4a4a3fe9c003ac910835b3f6c/AndroidManifest.xml:21:5-23:78
+MERGED from [com.github.jd-alexander:library:1.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/13c293c33ea694ce4c15e0fa0f9cfbd3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.jd-alexander:library:1.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/13c293c33ea694ce4c15e0fa0f9cfbd3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/234a239957d73c99c093b3fcb4e8bd1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/234a239957d73c99c093b3fcb4e8bd1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/7569639c6afa5481be7475c19a320a38/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/7569639c6afa5481be7475c19a320a38/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/b33d05cd3dd2aa791d0b3b5649ef0539/AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/b33d05cd3dd2aa791d0b3b5649ef0539/AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/9766541279b771555f96f079974edd2c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/9766541279b771555f96f079974edd2c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/f775b134ad859ca9a41a9f0f61ecc3d5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/f775b134ad859ca9a41a9f0f61ecc3d5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/689c8ca08bf564ccac30c69a937cec84/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/689c8ca08bf564ccac30c69a937cec84/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/844c4609dbb597451fdf4c33865c57a6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/844c4609dbb597451fdf4c33865c57a6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/6c4bdcc530efc6e34e644b587d31d16d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/6c4bdcc530efc6e34e644b587d31d16d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/10aa90f82df406d898240307e24dace2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/10aa90f82df406d898240307e24dace2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/6644b31e8688510fe2c56468cbb1207e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/6644b31e8688510fe2c56468cbb1207e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/43d285e45421e1559892e0b96dc73b5e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/43d285e45421e1559892e0b96dc73b5e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/32c511a3a675f2b88b80a2d0516ec7ba/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/32c511a3a675f2b88b80a2d0516ec7ba/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-config:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/808a8dc6c8cac97a39a01ecd59d59b23/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/808a8dc6c8cac97a39a01ecd59d59b23/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/1a7b8babfd29f170ed22b18e42e10f73/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/1a7b8babfd29f170ed22b18e42e10f73/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/29b0d67809a5e3a8e107111c02700892/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/29b0d67809a5e3a8e107111c02700892/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/8475ff0b13b4983e27d3e96ca9b77fe9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/8475ff0b13b4983e27d3e96ca9b77fe9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/903cf3d3ff5e20171167b896c9c6094c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/903cf3d3ff5e20171167b896c9c6094c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/0d5c7aa2553b2410f9b76fc03e40230e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/0d5c7aa2553b2410f9b76fc03e40230e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/74c5b64c2a0db36a259f6a3b7201e262/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/74c5b64c2a0db36a259f6a3b7201e262/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/cb1213e8ac81cab699997a9edd99586e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/cb1213e8ac81cab699997a9edd99586e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/f8f2f4eaf4dfd44128cc19d4ae902802/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/f8f2f4eaf4dfd44128cc19d4ae902802/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/f00ba7d8fff00ddda36e7d00a9c49d49/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/f00ba7d8fff00ddda36e7d00a9c49d49/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/be52d4fd6c2276b948e96a4d8cf5830d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/be52d4fd6c2276b948e96a4d8cf5830d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/58ee0700ba6e2a0bdbc83a5d27244676/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/58ee0700ba6e2a0bdbc83a5d27244676/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/5677f092a04f7c9ba525f746fee46520/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/5677f092a04f7c9ba525f746fee46520/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-instantapps:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/ac07518a6d8e5367bade7f624065816d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-instantapps:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/ac07518a6d8e5367bade7f624065816d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/00de75d8a24c10ff5ba2dc21805c74d1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/00de75d8a24c10ff5ba2dc21805c74d1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/3fd192a08b21d8edd6d84bb3312a7c0a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/3fd192a08b21d8edd6d84bb3312a7c0a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/04e8d770e966c917bcdc56fe045fc9a0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/04e8d770e966c917bcdc56fe045fc9a0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/19a20b8ccd784bc6b937325c27a4d324/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/19a20b8ccd784bc6b937325c27a4d324/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/ab17a1787f734b44508d47fb0521dc85/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/ab17a1787f734b44508d47fb0521dc85/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/512f2f150afe5a128091c8ce15c33d56/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/512f2f150afe5a128091c8ce15c33d56/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/65b893a2fbcb6db22b2c993b69c4fee2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/65b893a2fbcb6db22b2c993b69c4fee2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/c70918afaaab9e37fd564ac87e2b7090/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/c70918afaaab9e37fd564ac87e2b7090/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/d51e21649597579a292d577b149dca17/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/d51e21649597579a292d577b149dca17/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/37685d81f7c2f54ee62984e38ada8db7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/37685d81f7c2f54ee62984e38ada8db7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/594a982996efed009a2248c5ef789e96/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/594a982996efed009a2248c5ef789e96/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/de4acc0e853394646698ed93fc067bc6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/de4acc0e853394646698ed93fc067bc6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/ff186a914d7d651671035a376debe881/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/ff186a914d7d651671035a376debe881/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/4f27d7432f1a9e7722d0cd8e5059e909/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/4f27d7432f1a9e7722d0cd8e5059e909/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/1cf03d29156a4f9547f2f7c16010d25b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/1cf03d29156a4f9547f2f7c16010d25b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/9f8c23ba602471dd8444d60b794c3c2c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/9f8c23ba602471dd8444d60b794c3c2c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/8cb5602ef65362b09d25412e26053168/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/8cb5602ef65362b09d25412e26053168/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/3095286e07c672bdb562bd3ff6895bc9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/3095286e07c672bdb562bd3ff6895bc9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/ff63dde7bea773f80c2bd6b028189470/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/ff63dde7bea773f80c2bd6b028189470/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/46fe31473c7fdcd4bdd576473c8679fd/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/46fe31473c7fdcd4bdd576473c8679fd/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/593ccc240983620b46b2f865b374f95e/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/593ccc240983620b46b2f865b374f95e/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/94e6b70848b21b84b66239b7f9a73005/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/94e6b70848b21b84b66239b7f9a73005/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/50cb73f005bfe2f9324b344e3e038475/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/50cb73f005bfe2f9324b344e3e038475/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/cc966b64a296490233dc4d258104c7b9/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/cc966b64a296490233dc4d258104c7b9/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/294c1327d1da26c1670c60ac9e511802/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/294c1327d1da26c1670c60ac9e511802/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/b0d05e22ddb31ffc72c9c56724e7b631/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/b0d05e22ddb31ffc72c9c56724e7b631/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/f8238d5e79ce2f9d22abcca03e379eb8/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/f8238d5e79ce2f9d22abcca03e379eb8/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/8f360d369258d716fe78c5475da537a9/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/8f360d369258d716fe78c5475da537a9/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:palette-v7:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/db6420a210b3c894a003dd41f60c06d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/db6420a210b3c894a003dd41f60c06d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/4a5b3d628ee7fdd425ec0f2b63a37547/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/4a5b3d628ee7fdd425ec0f2b63a37547/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/c44fed0775cc3462f387dca147b14968/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/c44fed0775cc3462f387dca147b14968/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/394b60b2ed141931326601cb2256071d/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/394b60b2ed141931326601cb2256071d/AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/39be99b41d112ed7af45ba4aeddf4576/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/39be99b41d112ed7af45ba4aeddf4576/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/b60f317da940c5f9c3906979e7e53983/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/b60f317da940c5f9c3906979e7e53983/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/db8f74bdf79f510d001d03f9a5e286dd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/db8f74bdf79f510d001d03f9a5e286dd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/12046b4705e34c59a3228dca5aec34f5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/12046b4705e34c59a3228dca5aec34f5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/936e9e427176258464c53fc490c2fa7d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/936e9e427176258464c53fc490c2fa7d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/b15d6046fb0f5bd840afa1b9a5c01920/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/b15d6046fb0f5bd840afa1b9a5c01920/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/c15ac7f9c9731765ea2ab1d30560dd5a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/c15ac7f9c9731765ea2ab1d30560dd5a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/b45978849c50b014e1afc8946fb1587d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/b45978849c50b014e1afc8946fb1587d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/31af5b3904c95018ea4c5da12d643da5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/31af5b3904c95018ea4c5da12d643da5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/816a11a793060bf17aa9e38ae548b94a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/816a11a793060bf17aa9e38ae548b94a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/c4f438ca8e00de6ce1dcb250e16f9a30/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/c4f438ca8e00de6ce1dcb250e16f9a30/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/c2b193fc7a0c75f4f193b58cef268d5f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/c2b193fc7a0c75f4f193b58cef268d5f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/c1af80306982d0430efd5dd95ddd77d4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/c1af80306982d0430efd5dd95ddd77d4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/a95e7e2cefbf3f9cb47f9f2893ad3a1e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/a95e7e2cefbf3f9cb47f9f2893ad3a1e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/6fea7e6be3176bee001efe5c3ec5fda8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/6fea7e6be3176bee001efe5c3ec5fda8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/619ff39fa684f8fb198dfb7972515be9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/619ff39fa684f8fb198dfb7972515be9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/ef21dba127b331397d46e77740768d74/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/ef21dba127b331397d46e77740768d74/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/0a54e03cb1be653d71030eea809f8139/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/0a54e03cb1be653d71030eea809f8139/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/99356a7496baa576cf95c9124c6505f2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/99356a7496baa576cf95c9124c6505f2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/b2365f097d0e1d37ea7c32be98c6afe5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/b2365f097d0e1d37ea7c32be98c6afe5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/d8ff6275e3294af91295c509fac51f1e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/d8ff6275e3294af91295c509fac51f1e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/b2a8eddf337b92fa70874dd39c0c6ae9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/b2a8eddf337b92fa70874dd39c0c6ae9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/a179c3c3b0d45f516005ac7e3dd61d07/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/a179c3c3b0d45f516005ac7e3dd61d07/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/9aedfd1dd06d6cd050bbb54dd6246f0f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/9aedfd1dd06d6cd050bbb54dd6246f0f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/454d47220af757a213ad9a049b19e10b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/454d47220af757a213ad9a049b19e10b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/9ba2055c2c82b4ce197b7b54b055162d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/9ba2055c2c82b4ce197b7b54b055162d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/1e8da371fb08d6319688b9a089da4856/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/1e8da371fb08d6319688b9a089da4856/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/2f4ec650b1a584b269b13a074e01cad6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/2f4ec650b1a584b269b13a074e01cad6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/dadcd1448892fa431c64eaf1c2d90ad7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/dadcd1448892fa431c64eaf1c2d90ad7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/3b8912ee1297189e53853b29c25b5223/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/3b8912ee1297189e53853b29c25b5223/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/e782cfa47dc1393fae32821525d3097e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/e782cfa47dc1393fae32821525d3097e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/94b451f29f4f7bbb2c8050720fe061d6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/94b451f29f4f7bbb2c8050720fe061d6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/4d25d847aa23674f7b8c618b7efe798a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/4d25d847aa23674f7b8c618b7efe798a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/dc8db345a176733445fb0e4f40ad2148/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/dc8db345a176733445fb0e4f40ad2148/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/d4af38850d7837ebcf594fe7af42f03d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/d4af38850d7837ebcf594fe7af42f03d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/4d15d5ab1ef734b3055a030ac980e64d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/4d15d5ab1ef734b3055a030ac980e64d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/3f40c200ab2ed3fcc12461715f4186d2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/3f40c200ab2ed3fcc12461715f4186d2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/fc013951739c52016a4b6ecb701b8af1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/fc013951739c52016a4b6ecb701b8af1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/60563256488753c65be9f4c557184de3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/60563256488753c65be9f4c557184de3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/f8cf2b21819159086000568a228aa016/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/f8cf2b21819159086000568a228aa016/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/f08da363994b21808aa5d44ceb972d64/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/f08da363994b21808aa5d44ceb972d64/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/5142f4f6943eb42fc03763a6089ef5bd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/5142f4f6943eb42fc03763a6089ef5bd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/c655215a4c85858ce174e3c8e00b145c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/c655215a4c85858ce174e3c8e00b145c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/c73f4afafad508824924077c1487e7e6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/c73f4afafad508824924077c1487e7e6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/857cae643055a65b5340f9058b71e278/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/857cae643055a65b5340f9058b71e278/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/b787452b727ed2379ecdaf34eb19e564/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/b787452b727ed2379ecdaf34eb19e564/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/db87abb8e26526de52e950db23a2d1c4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/db87abb8e26526de52e950db23a2d1c4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/55944a4baf91ae7b2143f2c6dc577cc0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/55944a4baf91ae7b2143f2c6dc577cc0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/29c8222a105d15cd705bf9dce1241f09/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/29c8222a105d15cd705bf9dce1241f09/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/82891d579cd993c5e2d664abe60ffd03/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/82891d579cd993c5e2d664abe60ffd03/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/669a6aefeec1917ca6e95e1cc7345d9c/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/669a6aefeec1917ca6e95e1cc7345d9c/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml
+INJECTED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/0749bfa4a4a3fe9c003ac910835b3f6c/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml
+		ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml
+		ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/78624e65630cafcd722ca406b29b305c/AndroidManifest.xml:8:9-100
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/78624e65630cafcd722ca406b29b305c/AndroidManifest.xml:8:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/78624e65630cafcd722ca406b29b305c/AndroidManifest.xml:10:9-104
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/78624e65630cafcd722ca406b29b305c/AndroidManifest.xml:10:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/78624e65630cafcd722ca406b29b305c/AndroidManifest.xml:11:9-93
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/78624e65630cafcd722ca406b29b305c/AndroidManifest.xml:11:18-90
+meta-data#android.support.VERSION
+ADDED from [com.android.support:mediarouter-v7:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/7ffc4bb8ac92da59edd34a777dfccd86/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/0749bfa4a4a3fe9c003ac910835b3f6c/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/0749bfa4a4a3fe9c003ac910835b3f6c/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/234a239957d73c99c093b3fcb4e8bd1a/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/234a239957d73c99c093b3fcb4e8bd1a/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/7569639c6afa5481be7475c19a320a38/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/7569639c6afa5481be7475c19a320a38/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/b0d05e22ddb31ffc72c9c56724e7b631/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/b0d05e22ddb31ffc72c9c56724e7b631/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/f8238d5e79ce2f9d22abcca03e379eb8/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/f8238d5e79ce2f9d22abcca03e379eb8/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/8f360d369258d716fe78c5475da537a9/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/8f360d369258d716fe78c5475da537a9/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:palette-v7:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/db6420a210b3c894a003dd41f60c06d3/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:palette-v7:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/db6420a210b3c894a003dd41f60c06d3/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/4a5b3d628ee7fdd425ec0f2b63a37547/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/4a5b3d628ee7fdd425ec0f2b63a37547/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/c44fed0775cc3462f387dca147b14968/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/c44fed0775cc3462f387dca147b14968/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/394b60b2ed141931326601cb2256071d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/394b60b2ed141931326601cb2256071d/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:mediarouter-v7:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/7ffc4bb8ac92da59edd34a777dfccd86/AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:mediarouter-v7:26.1.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/7ffc4bb8ac92da59edd34a777dfccd86/AndroidManifest.xml:24:13-51
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/9766541279b771555f96f079974edd2c/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/f775b134ad859ca9a41a9f0f61ecc3d5/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/f775b134ad859ca9a41a9f0f61ecc3d5/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/6c4bdcc530efc6e34e644b587d31d16d/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/6c4bdcc530efc6e34e644b587d31d16d/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/10aa90f82df406d898240307e24dace2/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/10aa90f82df406d898240307e24dace2/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/f8f2f4eaf4dfd44128cc19d4ae902802/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/f8f2f4eaf4dfd44128cc19d4ae902802/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/5677f092a04f7c9ba525f746fee46520/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/5677f092a04f7c9ba525f746fee46520/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/04e8d770e966c917bcdc56fe045fc9a0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/04e8d770e966c917bcdc56fe045fc9a0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/de4acc0e853394646698ed93fc067bc6/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/de4acc0e853394646698ed93fc067bc6/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/9f8c23ba602471dd8444d60b794c3c2c/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/9f8c23ba602471dd8444d60b794c3c2c/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/8cb5602ef65362b09d25412e26053168/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/8cb5602ef65362b09d25412e26053168/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/3095286e07c672bdb562bd3ff6895bc9/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/3095286e07c672bdb562bd3ff6895bc9/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/ff63dde7bea773f80c2bd6b028189470/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/ff63dde7bea773f80c2bd6b028189470/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/9766541279b771555f96f079974edd2c/AndroidManifest.xml:23:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/9766541279b771555f96f079974edd2c/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/f775b134ad859ca9a41a9f0f61ecc3d5/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/f775b134ad859ca9a41a9f0f61ecc3d5/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/6c4bdcc530efc6e34e644b587d31d16d/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/6c4bdcc530efc6e34e644b587d31d16d/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/04e8d770e966c917bcdc56fe045fc9a0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/04e8d770e966c917bcdc56fe045fc9a0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/19a20b8ccd784bc6b937325c27a4d324/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/19a20b8ccd784bc6b937325c27a4d324/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/9f8c23ba602471dd8444d60b794c3c2c/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/9f8c23ba602471dd8444d60b794c3c2c/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/8cb5602ef65362b09d25412e26053168/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/8cb5602ef65362b09d25412e26053168/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/3095286e07c672bdb562bd3ff6895bc9/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/3095286e07c672bdb562bd3ff6895bc9/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/ff63dde7bea773f80c2bd6b028189470/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/ff63dde7bea773f80c2bd6b028189470/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/9766541279b771555f96f079974edd2c/AndroidManifest.xml:24:22-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/9766541279b771555f96f079974edd2c/AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/9766541279b771555f96f079974edd2c/AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/9766541279b771555f96f079974edd2c/AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/9766541279b771555f96f079974edd2c/AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/9766541279b771555f96f079974edd2c/AndroidManifest.xml:30:13-65
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/f775b134ad859ca9a41a9f0f61ecc3d5/AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/6c4bdcc530efc6e34e644b587d31d16d/AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/6c4bdcc530efc6e34e644b587d31d16d/AndroidManifest.xml:27:5-68
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/8cb5602ef65362b09d25412e26053168/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/8cb5602ef65362b09d25412e26053168/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/3095286e07c672bdb562bd3ff6895bc9/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/3095286e07c672bdb562bd3ff6895bc9/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/ff63dde7bea773f80c2bd6b028189470/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/ff63dde7bea773f80c2bd6b028189470/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/f775b134ad859ca9a41a9f0f61ecc3d5/AndroidManifest.xml:27:22-65
+receiver#com.google.android.gms.analytics.AnalyticsReceiver
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/f775b134ad859ca9a41a9f0f61ecc3d5/AndroidManifest.xml:30:9-34:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/f775b134ad859ca9a41a9f0f61ecc3d5/AndroidManifest.xml:32:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/f775b134ad859ca9a41a9f0f61ecc3d5/AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/f775b134ad859ca9a41a9f0f61ecc3d5/AndroidManifest.xml:31:13-78
+service#com.google.android.gms.analytics.AnalyticsService
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/f775b134ad859ca9a41a9f0f61ecc3d5/AndroidManifest.xml:36:9-39:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/f775b134ad859ca9a41a9f0f61ecc3d5/AndroidManifest.xml:38:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/f775b134ad859ca9a41a9f0f61ecc3d5/AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/f775b134ad859ca9a41a9f0f61ecc3d5/AndroidManifest.xml:37:13-77
+service#com.google.android.gms.analytics.AnalyticsJobService
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/f775b134ad859ca9a41a9f0f61ecc3d5/AndroidManifest.xml:40:9-44:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/f775b134ad859ca9a41a9f0f61ecc3d5/AndroidManifest.xml:42:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/f775b134ad859ca9a41a9f0f61ecc3d5/AndroidManifest.xml:43:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/f775b134ad859ca9a41a9f0f61ecc3d5/AndroidManifest.xml:44:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/f775b134ad859ca9a41a9f0f61ecc3d5/AndroidManifest.xml:41:13-80
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/10aa90f82df406d898240307e24dace2/AndroidManifest.xml:25:9-34:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/10aa90f82df406d898240307e24dace2/AndroidManifest.xml:27:13-36
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/10aa90f82df406d898240307e24dace2/AndroidManifest.xml:28:13-59
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/10aa90f82df406d898240307e24dace2/AndroidManifest.xml:26:13-76
+intent-filter#action:name:com.google.android.gms.appinvite.ACTION_PREVIEW+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/10aa90f82df406d898240307e24dace2/AndroidManifest.xml:29:13-33:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/10aa90f82df406d898240307e24dace2/AndroidManifest.xml:30:17-90
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/10aa90f82df406d898240307e24dace2/AndroidManifest.xml:30:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/10aa90f82df406d898240307e24dace2/AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/10aa90f82df406d898240307e24dace2/AndroidManifest.xml:32:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/6644b31e8688510fe2c56468cbb1207e/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/6644b31e8688510fe2c56468cbb1207e/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/6644b31e8688510fe2c56468cbb1207e/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/6644b31e8688510fe2c56468cbb1207e/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/6644b31e8688510fe2c56468cbb1207e/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/6644b31e8688510fe2c56468cbb1207e/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/6644b31e8688510fe2c56468cbb1207e/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/6644b31e8688510fe2c56468cbb1207e/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/6644b31e8688510fe2c56468cbb1207e/AndroidManifest.xml:34:13-89
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/0d5c7aa2553b2410f9b76fc03e40230e/AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/0d5c7aa2553b2410f9b76fc03e40230e/AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/0d5c7aa2553b2410f9b76fc03e40230e/AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/0d5c7aa2553b2410f9b76fc03e40230e/AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/0d5c7aa2553b2410f9b76fc03e40230e/AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/0d5c7aa2553b2410f9b76fc03e40230e/AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/0d5c7aa2553b2410f9b76fc03e40230e/AndroidManifest.xml:24:13-85
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/f8f2f4eaf4dfd44128cc19d4ae902802/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/5677f092a04f7c9ba525f746fee46520/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/5677f092a04f7c9ba525f746fee46520/AndroidManifest.xml:23:5-82
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/ff63dde7bea773f80c2bd6b028189470/AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/ff63dde7bea773f80c2bd6b028189470/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/f8f2f4eaf4dfd44128cc19d4ae902802/AndroidManifest.xml:23:22-79
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/594a982996efed009a2248c5ef789e96/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/594a982996efed009a2248c5ef789e96/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/594a982996efed009a2248c5ef789e96/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/594a982996efed009a2248c5ef789e96/AndroidManifest.xml:24:13-79
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/1cf03d29156a4f9547f2f7c16010d25b/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/1cf03d29156a4f9547f2f7c16010d25b/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/1cf03d29156a4f9547f2f7c16010d25b/AndroidManifest.xml:29:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/1cf03d29156a4f9547f2f7c16010d25b/AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/1cf03d29156a4f9547f2f7c16010d25b/AndroidManifest.xml:31:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/1cf03d29156a4f9547f2f7c16010d25b/AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/1cf03d29156a4f9547f2f7c16010d25b/AndroidManifest.xml:32:25-75
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/9f8c23ba602471dd8444d60b794c3c2c/AndroidManifest.xml:27:9-30:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/9f8c23ba602471dd8444d60b794c3c2c/AndroidManifest.xml:29:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/9f8c23ba602471dd8444d60b794c3c2c/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/9f8c23ba602471dd8444d60b794c3c2c/AndroidManifest.xml:28:13-79
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/9f8c23ba602471dd8444d60b794c3c2c/AndroidManifest.xml:32:9-44:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/9f8c23ba602471dd8444d60b794c3c2c/AndroidManifest.xml:35:13-37
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/9f8c23ba602471dd8444d60b794c3c2c/AndroidManifest.xml:34:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/9f8c23ba602471dd8444d60b794c3c2c/AndroidManifest.xml:33:13-87
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.${applicationId}
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/9f8c23ba602471dd8444d60b794c3c2c/AndroidManifest.xml:36:13-43:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.com.sergio.martin.repartomanager
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/9f8c23ba602471dd8444d60b794c3c2c/AndroidManifest.xml:36:13-43:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/9f8c23ba602471dd8444d60b794c3c2c/AndroidManifest.xml:37:17-72
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/9f8c23ba602471dd8444d60b794c3c2c/AndroidManifest.xml:37:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/9f8c23ba602471dd8444d60b794c3c2c/AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/9f8c23ba602471dd8444d60b794c3c2c/AndroidManifest.xml:39:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/9f8c23ba602471dd8444d60b794c3c2c/AndroidManifest.xml:42:17-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/9f8c23ba602471dd8444d60b794c3c2c/AndroidManifest.xml:42:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/8cb5602ef65362b09d25412e26053168/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/3095286e07c672bdb562bd3ff6895bc9/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/3095286e07c672bdb562bd3ff6895bc9/AndroidManifest.xml:28:9-32:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/8cb5602ef65362b09d25412e26053168/AndroidManifest.xml:30:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/8cb5602ef65362b09d25412e26053168/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/8cb5602ef65362b09d25412e26053168/AndroidManifest.xml:29:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/8cb5602ef65362b09d25412e26053168/AndroidManifest.xml:33:9-41:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/8cb5602ef65362b09d25412e26053168/AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/8cb5602ef65362b09d25412e26053168/AndroidManifest.xml:36:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/8cb5602ef65362b09d25412e26053168/AndroidManifest.xml:37:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/8cb5602ef65362b09d25412e26053168/AndroidManifest.xml:34:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/8cb5602ef65362b09d25412e26053168/AndroidManifest.xml:38:13-40:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/8cb5602ef65362b09d25412e26053168/AndroidManifest.xml:39:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/8cb5602ef65362b09d25412e26053168/AndroidManifest.xml:39:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/8cb5602ef65362b09d25412e26053168/AndroidManifest.xml:43:9-46:40
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/3095286e07c672bdb562bd3ff6895bc9/AndroidManifest.xml:34:9-37:40
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/3095286e07c672bdb562bd3ff6895bc9/AndroidManifest.xml:34:9-37:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/8cb5602ef65362b09d25412e26053168/AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/8cb5602ef65362b09d25412e26053168/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/8cb5602ef65362b09d25412e26053168/AndroidManifest.xml:44:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/8cb5602ef65362b09d25412e26053168/AndroidManifest.xml:47:9-51:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/8cb5602ef65362b09d25412e26053168/AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/8cb5602ef65362b09d25412e26053168/AndroidManifest.xml:50:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/8cb5602ef65362b09d25412e26053168/AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/8cb5602ef65362b09d25412e26053168/AndroidManifest.xml:48:13-87
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/ff63dde7bea773f80c2bd6b028189470/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/ff63dde7bea773f80c2bd6b028189470/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/ff63dde7bea773f80c2bd6b028189470/AndroidManifest.xml:29:9-63
+permission#com.sergio.martin.repartomanager.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/ff63dde7bea773f80c2bd6b028189470/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/ff63dde7bea773f80c2bd6b028189470/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/ff63dde7bea773f80c2bd6b028189470/AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/ff63dde7bea773f80c2bd6b028189470/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/ff63dde7bea773f80c2bd6b028189470/AndroidManifest.xml:32:22-76
+uses-permission#com.sergio.martin.repartomanager.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/ff63dde7bea773f80c2bd6b028189470/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/ff63dde7bea773f80c2bd6b028189470/AndroidManifest.xml:32:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/ff63dde7bea773f80c2bd6b028189470/AndroidManifest.xml:35:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/ff63dde7bea773f80c2bd6b028189470/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/ff63dde7bea773f80c2bd6b028189470/AndroidManifest.xml:38:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/ff63dde7bea773f80c2bd6b028189470/AndroidManifest.xml:36:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/ff63dde7bea773f80c2bd6b028189470/AndroidManifest.xml:39:13-43:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.sergio.martin.repartomanager
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/ff63dde7bea773f80c2bd6b028189470/AndroidManifest.xml:39:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/ff63dde7bea773f80c2bd6b028189470/AndroidManifest.xml:40:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/ff63dde7bea773f80c2bd6b028189470/AndroidManifest.xml:40:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/ff63dde7bea773f80c2bd6b028189470/AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/ff63dde7bea773f80c2bd6b028189470/AndroidManifest.xml:42:27-58
+category#com.sergio.martin.repartomanager
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/ff63dde7bea773f80c2bd6b028189470/AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/ff63dde7bea773f80c2bd6b028189470/AndroidManifest.xml:42:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/ff63dde7bea773f80c2bd6b028189470/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/ff63dde7bea773f80c2bd6b028189470/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/ff63dde7bea773f80c2bd6b028189470/AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/ff63dde7bea773f80c2bd6b028189470/AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/ff63dde7bea773f80c2bd6b028189470/AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/ff63dde7bea773f80c2bd6b028189470/AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/ff63dde7bea773f80c2bd6b028189470/AndroidManifest.xml:54:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/94e6b70848b21b84b66239b7f9a73005/AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/94e6b70848b21b84b66239b7f9a73005/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/94e6b70848b21b84b66239b7f9a73005/AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/94e6b70848b21b84b66239b7f9a73005/AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/94e6b70848b21b84b66239b7f9a73005/AndroidManifest.xml:9:13-77
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/669a6aefeec1917ca6e95e1cc7345d9c/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/669a6aefeec1917ca6e95e1cc7345d9c/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/669a6aefeec1917ca6e95e1cc7345d9c/AndroidManifest.xml:26:13-58

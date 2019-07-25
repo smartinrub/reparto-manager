@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".Main">
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:stretchColumns="0,1"
+        android:id="@+id/tableLayout">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:text="@string/mejor_pedido"
+                android:id="@+id/buttonMejorPedido"
+                android:layout_column="0"
+                style="@style/ButtonStyle"
+                android:layout_marginRight="5dp" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/mejor_grupo"
+                android:id="@+id/buttonMejorGrupo"
+                android:layout_column="1"
+                style="@style/ButtonStyle"
+                android:layout_marginLeft="5dp" />
+        </TableRow>
+    </TableLayout>
+
+    <ListView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/listViewPedidos"
+        android:layout_below="@+id/tableLayout"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:layout_above="@+id/tableLayout3"
+        android:layout_marginBottom="20dp" />
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentLeft="false"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:stretchColumns="0,1"
+        android:id="@+id/tableLayout3">
+        <TableRow android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <Button
+                android:layout_width="85dp"
+                android:layout_height="wrap_content"
+                android:text="@string/nuevo_pedido"
+                android:id="@+id/buttonNuevoPedido"
+                style="@style/ButtonStyle"
+                android:padding="5dp"
+                android:layout_marginRight="5dp" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="MAP"
+                android:id="@+id/buttonMapa"
+                android:layout_column="1"
+                style="@style/ButtonStyle"
+                android:layout_marginLeft="5dp" />
+
+        </TableRow>
+    </TableLayout>
+</RelativeLayout>

@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">RepartoManager</string>
+    <string name="nuevo_pedido">NUEVO PEDIDO</string>
+    <string name="mejor_grupo">Mejor Grupo</string>
+    <string name="mejor_pedido">Mejor Pedido</string>
+    <string name="nuevo_pedido_textView">Nuevo Pedido</string>
+    <string name="guardar">Guardar</string>
+    <string name="email">Email</string>
+    <string name="telefono">Telefono</string>
+    <string name="codigo_postal">Codigo Postal</string>
+    <string name="distancia_km">Distancia (km)</string>
+    <string name="nombre">Nombre</string>
+    <string name="precio_euros">Precio (euros)</string>
+    <string name="datos_de_contacto">Datos de Contacto</string>
+    <string name="llamar">LLAMAR</string>
+    <string name="boton_email">EMAIL</string>
+    <string name="borrar">BORRAR</string>
+    <string name="eliminarGrupo">ELIMINAR</string>
+    <string name="volverGrupo">VOLVER</string>
+    <string name="mejor_grup">Mejor Grupo</string>
+    <string name="nombreMejorPedido">Nombre</string>
+    <string name="telefonoMejorPedido">Telefono</string>
+    <string name="emailMejorPedido">Email</string>
+    <string name="nombreLista">Nombre:</string>
+    <string name="cpLista">CP:</string>
+    <string name="distancia_kmLista">Distancia (km):</string>
+    <string name="precioLista">Precio (€):</string>
+    <string name="telefonoLista">Telefono:</string>
+    <string name="emailLista">Email:</string>
+    <string name="atrasMejorPedido">ATRAS</string>
+    <string name="cancelar">CANCELAR</string>
+    <string name="ok">OK</string>
+</resources>

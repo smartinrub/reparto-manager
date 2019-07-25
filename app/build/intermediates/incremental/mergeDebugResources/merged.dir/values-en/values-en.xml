@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RepartoManager</string>
+    <string name="atrasMejorPedido">BACK</string>
+    <string name="borrar">DELETE</string>
+    <string name="boton_email">EMAIL</string>
+    <string name="cancelar">Cancel</string>
+    <string name="codigo_postal">Post Code</string>
+    <string name="cpLista">Postal Code:</string>
+    <string name="datos_de_contacto">Contact Details</string>
+    <string name="distancia_km">Distance (km)</string>
+    <string name="distancia_kmLista">Distance (km):</string>
+    <string name="eliminarGrupo">DELETE</string>
+    <string name="email">Email</string>
+    <string name="emailLista">Email:</string>
+    <string name="emailMejorPedido">Email</string>
+    <string name="guardar">Save</string>
+    <string name="llamar">CALL</string>
+    <string name="mejor_grup">Best Group</string>
+    <string name="mejor_grupo">Best Group</string>
+    <string name="mejor_pedido">Best Order</string>
+    <string name="nombre">Name</string>
+    <string name="nombreLista">Name:</string>
+    <string name="nombreMejorPedido">Name</string>
+    <string name="nuevo_pedido">NEW ORDER</string>
+    <string name="nuevo_pedido_textView">New Order</string>
+    <string name="ok">OK</string>
+    <string name="precioLista">Price (€):</string>
+    <string name="precio_euros">Price (euros)</string>
+    <string name="telefono">Phone</string>
+    <string name="telefonoLista">Phone:</string>
+    <string name="telefonoMejorPedido">Phone</string>
+    <string name="volverGrupo">BACK</string>
+</resources>
