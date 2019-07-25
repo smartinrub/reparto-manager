@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:2:1-45:12
-INJECTED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:2:1-45:12
-INJECTED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:2:1-45:12
-INJECTED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:2:1-45:12
+ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:2:1-48:12
 MERGED from [com.android.support:multidex:1.0.3] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/9ff8e291ea48eaa8334ab9aec41d7851/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.gms:play-services:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/6d474d079830617e8a32e14a4cbaae69/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/78624e65630cafcd722ca406b29b305c/AndroidManifest.xml:2:1-14:12
@@ -120,20 +120,20 @@ MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /Users/
 MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/29c8222a105d15cd705bf9dce1241f09/AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/82891d579cd993c5e2d664abe60ffd03/AndroidManifest.xml:17:1-24:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/669a6aefeec1917ca6e95e1cc7345d9c/AndroidManifest.xml:17:1-30:12
-INJECTED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:2:1-45:12
-INJECTED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:2:1-45:12
-INJECTED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:2:1-48:12
 	package
 		ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:3:5-47
 		INJECTED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml
-		ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:2:1-45:12
+		ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:2:1-48:12
 		INJECTED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml
-		ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:2:1-45:12
+		ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:2:1-48:12
 		INJECTED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:2:11-69
@@ -141,6 +141,14 @@ uses-permission#android.permission.CALL_PHONE
 ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:5:5-69
 	android:name
 		ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:5:22-66
+uses-permission-sdk-23#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:7:5-86
+	android:name
+		ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:7:29-83
+uses-permission-sdk-23#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:8:5-88
+	android:name
+		ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:8:29-85
 uses-permission#android.permission.ACCESS_FINE_LOCATION
 ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:10:5-79
 	android:name
@@ -158,7 +166,7 @@ MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/smartinrub
 	android:required
 		ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:15:9-32
 application
-ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:17:5-43:19
+ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:17:5-46:19
 MERGED from [com.google.android.gms:play-services:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/6d474d079830617e8a32e14a4cbaae69/AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/6d474d079830617e8a32e14a4cbaae69/AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/78624e65630cafcd722ca406b29b305c/AndroidManifest.xml:7:5-12:19
@@ -373,6 +381,8 @@ MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/smartinrubio/.gradle/c
 		ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:22:9-35
 	android:label
 		ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:21:9-41
+	android:fullBackupContent
+		ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:24:9-59
 	android:icon
 		ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:20:9-43
 	android:allowBackup
@@ -381,12 +391,12 @@ MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/smartinrubio/.gradle/c
 		ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:23:9-40
 	android:name
 		ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:18:9-68
-meta-data#com.google.android.geo.API_KEY
-ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:24:9-26:71
-	android:value
-		ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:26:13-68
+uses-library#org.apache.http.legacy
+ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:25:9-87
+	android:required
+		ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:25:61-85
 	android:name
-		ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:25:13-58
+		ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:25:23-60
 meta-data#com.google.android.gms.version
 ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:27:9-29:69
 MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/294c1327d1da26c1670c60ac9e511802/AndroidManifest.xml:23:9-25:69
@@ -399,12 +409,16 @@ activity#com.sergio.martin.repartomanager.Splash
 ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:31:9-37:20
 	android:name
 		ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:31:19-41
-intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+intent-filter#action:name:android.intent.action.MAIN+action:name:android.intent.action.VIEW+category:name:android.intent.category.LAUNCHER
 ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:32:13-36:29
 action#android.intent.action.MAIN
 ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:33:17-69
 	android:name
 		ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:33:25-66
+action#android.intent.action.VIEW
+ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:34:25-66
 category#android.intent.category.LAUNCHER
 ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:35:17-77
 	android:name
@@ -426,9 +440,15 @@ ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main
 	android:name
 		ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:41:19-38
 activity#com.sergio.martin.repartomanager.Main
-ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:42:9-51
+ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:42:9-42
 	android:name
 		ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:42:19-39
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:43:9-45:71
+	android:value
+		ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:45:13-68
+	android:name
+		ADDED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml:44:13-58
 uses-sdk
 INJECTED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/AndroidManifest.xml
@@ -913,10 +933,6 @@ data
 ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/9f8c23ba602471dd8444d60b794c3c2c/AndroidManifest.xml:37:17-72
 	android:scheme
 		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/9f8c23ba602471dd8444d60b794c3c2c/AndroidManifest.xml:37:23-69
-action#android.intent.action.VIEW
-ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/9f8c23ba602471dd8444d60b794c3c2c/AndroidManifest.xml:39:17-69
-	android:name
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/9f8c23ba602471dd8444d60b794c3c2c/AndroidManifest.xml:39:25-66
 category#android.intent.category.BROWSABLE
 ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/9f8c23ba602471dd8444d60b794c3c2c/AndroidManifest.xml:42:17-78
 	android:name

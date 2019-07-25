@@ -3982,7 +3982,7 @@ public final class R {
     public static final int activity_crear_pedido=0x7f0b001b;
     public static final int activity_info_mejor_grupo=0x7f0b001c;
     public static final int activity_info_mejor_pedido=0x7f0b001d;
-    public static final int activity_mapa=0x7f0b001e;
+    public static final int activity_maps=0x7f0b001e;
     public static final int activity_splash=0x7f0b001f;
     public static final int cast_expanded_controller_activity=0x7f0b0020;
     public static final int cast_help_text=0x7f0b0021;
@@ -12563,5 +12563,8 @@ public final class R {
      * @attr name com.sergio.martin.repartomanager:maskedWalletDetailsTextAppearance
      */
     public static final int WalletFragmentStyle_maskedWalletDetailsTextAppearance=10;
+  }
+  public static final class xml {
+    public static final int backup_descriptor=0x7f100000;
   }
 }

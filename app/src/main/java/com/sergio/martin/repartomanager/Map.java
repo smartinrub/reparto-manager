@@ -10,7 +10,7 @@ import android.location.Geocoder;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.v4.app.ActivityCompat;
-import android.support.v7.app.AppCompatActivity;
+import android.support.v4.app.FragmentActivity;
 import android.widget.Toast;
 
 import com.google.android.gms.maps.CameraUpdateFactory;
@@ -28,7 +28,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Locale;
 
-public class Map extends AppCompatActivity implements OnMapReadyCallback {
+public class Map extends FragmentActivity implements OnMapReadyCallback {
 
     final int MY_PERMISSIONS_REQUEST_MAPS = 1;
 
@@ -41,13 +41,12 @@ public class Map extends AppCompatActivity implements OnMapReadyCallback {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_mapa);
+        setContentView(R.layout.activity_maps);
 
         db = new HelperDB(this);
 
         MapFragment mapFragment = (MapFragment) getFragmentManager().findFragmentById(R.id.map);
         mapFragment.getMapAsync(this);
-
 
         if (ActivityCompat.checkSelfPermission(this, android.Manifest.permission.ACCESS_FINE_LOCATION) !=
                 PackageManager.PERMISSION_GRANTED &&
@@ -59,8 +58,7 @@ public class Map extends AppCompatActivity implements OnMapReadyCallback {
             ActivityCompat.requestPermissions(this,
                     new String[]{android.Manifest.permission.ACCESS_FINE_LOCATION, android.Manifest.permission.ACCESS_COARSE_LOCATION},
                     MY_PERMISSIONS_REQUEST_MAPS);
-        } else {
-            Toast.makeText(this, "Permisos concedidos", Toast.LENGTH_LONG).show();
+            Toast.makeText(this, "Permissions Granted", Toast.LENGTH_LONG).show();
         }
     }
 
@@ -79,7 +77,7 @@ public class Map extends AppCompatActivity implements OnMapReadyCallback {
         Address address;
         ArrayList<Address> addressesLatLng;
 
-        public Geo(Context context, ArrayList<String> cps) {
+        Geo(Context context, ArrayList<String> cps) {
             this.context = context;
             CPs = cps;
             addressesLatLng = new ArrayList<>();
@@ -90,7 +88,7 @@ public class Map extends AppCompatActivity implements OnMapReadyCallback {
 
             Geocoder geocoder = new Geocoder(context, Locale.getDefault());
             try {
-                for (String cp: CPs) {
+                for (String cp : CPs) {
                     addresses = geocoder.getFromLocationName(cp, 1);
                     address = addresses.get(0);
                     addressesLatLng.add(address);
@@ -111,7 +109,7 @@ public class Map extends AppCompatActivity implements OnMapReadyCallback {
 
         protected void onPostExecute(Void avoid) {
             int i = 0;
-            for (Address ad: addressesLatLng) {
+            for (Address ad : addressesLatLng) {
                 String cp = CPs.get(i);
                 addMarker(ad.getLatitude(), ad.getLongitude(), cp);
                 i++;

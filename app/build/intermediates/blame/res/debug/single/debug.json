@@ -2684,10 +2684,6 @@
         "source": "/Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/0749bfa4a4a3fe9c003ac910835b3f6c/res/drawable-xxhdpi-v4/abc_ic_star_black_36dp.png"
     },
     {
-        "merged": "/Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/build/intermediates/res/merged/debug/layout_activity_mapa.xml.flat",
-        "source": "/Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/res/layout/activity_mapa.xml"
-    },
-    {
         "merged": "/Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_quantum_ic_pause_grey600_48.png.flat",
         "source": "/Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/78624e65630cafcd722ca406b29b305c/res/drawable-xhdpi-v4/quantum_ic_pause_grey600_48.png"
     },
@@ -2994,6 +2990,10 @@
     {
         "merged": "/Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_ic_group_collapse_06.png.flat",
         "source": "/Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/7ffc4bb8ac92da59edd34a777dfccd86/res/drawable-xxxhdpi-v4/ic_group_collapse_06.png"
+    },
+    {
+        "merged": "/Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/build/intermediates/res/merged/debug/xml_backup_descriptor.xml.flat",
+        "source": "/Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/res/xml/backup_descriptor.xml"
     },
     {
         "merged": "/Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
@@ -3954,6 +3954,10 @@
     {
         "merged": "/Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_ic_dialog_close_light.png.flat",
         "source": "/Users/smartinrubio/.gradle/caches/transforms-2/files-2.1/7ffc4bb8ac92da59edd34a777dfccd86/res/drawable-hdpi-v4/ic_dialog_close_light.png"
+    },
+    {
+        "merged": "/Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/build/intermediates/res/merged/debug/layout_activity_maps.xml.flat",
+        "source": "/Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/src/main/res/layout/activity_maps.xml"
     },
     {
         "merged": "/Users/smartinrubio/AndroidStudioProjects/RepartoManager/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_ic_audiotrack_light.png.flat",

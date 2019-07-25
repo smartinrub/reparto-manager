@@ -30,7 +30,7 @@ public class BestOrderInformation extends AppCompatActivity implements View.OnCl
     private boolean empty = false;
 
     @Override
-    protected void onCreate(Bundle savedInstanceState)  {
+    protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_info_mejor_pedido);
 
@@ -67,7 +67,7 @@ public class BestOrderInformation extends AppCompatActivity implements View.OnCl
     public void onClick(View view) {
         switch (view.getId()) {
             case R.id.buttonLlamar:
-                Intent intentLlamada = new Intent(Intent.ACTION_CALL, Uri.parse("phoneNumber:" + phoneNumber));
+                Intent callIntent = new Intent(Intent.ACTION_CALL, Uri.fromParts("tel", phoneNumber, null));
                 if (ActivityCompat.checkSelfPermission(this, Manifest.permission.CALL_PHONE)
                         != PackageManager.PERMISSION_GRANTED) {
                     // TODO: Consider calling
@@ -79,7 +79,7 @@ public class BestOrderInformation extends AppCompatActivity implements View.OnCl
                     // for ActivityCompat#requestPermissions for more details.
                     return;
                 }
-                startActivity(intentLlamada);
+                startActivity(callIntent);
                 break;
 
             case R.id.buttonEmail:
