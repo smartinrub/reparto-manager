@@ -1,6 +1,5 @@
 # OS generated files #
 ######################
-.gitattributes
 .DS_Store
 .DS_Store?
 ._*
@@ -10,82 +9,75 @@ Icon?
 ehthumbs.db
 Thumbs.db
 
-# eclipse files #
+# Eclipse files #
 ######################
 .classpath
 .checkstyle
 .project
 **/test-output/**
-# eclipse pmd plugin files #
 .pmd
 .pmdruleset.xml
 
-# IDEA files #
+# IntelliJ IDEA files #
 ######################
-.idea
-**/*.iml
-**/*.ipr
-**/*.iws
+.idea/
+*.iml
+*.ipr
+*.iws
 **/bin/**
 
-# build files #
+# Build files #
 ######################
 build.properties
 tmp
-target
+target/
 *.versionsBackup
 *.war
 *.tar.gz
 
-# Local configs
+# Local configs #
+######################
 docker_config.yml
 docker-compose-filled.yml
 docker-compose.yml
-.log
 .mvn
-/logs
-
-*.iml
-.gradle
-/local.properties
-/.idea/workspace.xml
-/.idea/libraries
-.DS_Store
-/build
-/captures
-
-# Gradle files
-.gradle/
-build/
-
-# Local configuration file (sdk path, etc)
-local.properties
-
-# Log/OS Files
+/logs/
 *.log
 
-# Android Studio generated files and folders
+# Gradle files #
+######################
+.gradle/
+build/
+local.properties
+
+# Android Studio files #
+######################
 captures/
 .externalNativeBuild/
 .cxx/
 *.apk
 output.json
 
-# IntelliJ
-*.iml
+# IntelliJ IDEA specific files #
+######################
 .idea/
 misc.xml
 deploymentTargetDropDown.xml
 render.experimental.xml
 
-# Keystore files
+# Keystore files #
+######################
 *.jks
 *.keystore
 
-# Google Services (e.g. APIs or Firebase)
+# Google Services (e.g. APIs or Firebase) #
+######################
 google-services.json
 
-# Android Profiling
+# Android Profiling files #
+######################
 *.hprof
 
+# Release files #
+######################
 release/
