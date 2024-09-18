@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.sergio.martin.repartomanager"
-    android:versionCode="3"
-    android:versionName="1.1" >
+    android:versionCode="4"
+    android:versionName="1.2" >
 
     <uses-sdk
         android:minSdkVersion="16"
-        android:targetSdkVersion="29" />
+        android:targetSdkVersion="35" />
 
     <uses-permission android:name="android.permission.CALL_PHONE" />
 
@@ -32,16 +32,22 @@
 
     <uses-permission android:name="com.sergio.martin.repartomanager.permission.C2D_MESSAGE" />
 
+    <permission
+        android:name="com.sergio.martin.repartomanager.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="com.sergio.martin.repartomanager.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+
     <application
         android:name="androidx.multidex.MultiDexApplication"
         android:allowBackup="true"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
+        android:extractNativeLibs="true"
         android:fullBackupContent="@xml/backup_descriptor"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
-        android:testOnly="true"
         android:theme="@style/AppTheme" >
         <uses-library
             android:name="org.apache.http.legacy"
@@ -51,7 +57,9 @@
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
 
-        <activity android:name="com.sergio.martin.repartomanager.Splash" >
+        <activity
+            android:name="com.sergio.martin.repartomanager.Splash"
+            android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <action android:name="android.intent.action.VIEW" />
@@ -213,9 +221,16 @@
             android:exported="false"
             android:initOrder="100" />
         <provider
-            android:name="com.android.tools.ir.server.InstantRunContentProvider"
-            android:authorities="com.sergio.martin.repartomanager.com.android.tools.ir.server.InstantRunContentProvider"
-            android:multiprocess="true" />
+            android:name="androidx.startup.InitializationProvider"
+            android:authorities="com.sergio.martin.repartomanager.androidx-startup"
+            android:exported="false" >
+            <meta-data
+                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+                android:value="androidx.startup" />
+            <meta-data
+                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+                android:value="androidx.startup" />
+        </provider>
     </application>
 
 </manifest>

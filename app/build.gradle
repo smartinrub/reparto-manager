@@ -1,14 +1,19 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 29
+
+    defaultConfig {
+        compileSdk 35
+    }
+
+    namespace 'com.sergio.martin.repartomanager'
 
     defaultConfig {
         applicationId "com.sergio.martin.repartomanager"
         minSdkVersion 16
-        targetSdkVersion 29
-        versionCode 3
-        versionName "1.1"
+        targetSdkVersion 35
+        versionCode 4
+        versionName "1.2"
 
         // Enabling multidex support
         multiDexEnabled true
@@ -23,8 +28,8 @@ android {
 
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
-    testImplementation 'junit:junit:4.12'
-    implementation 'androidx.appcompat:appcompat:1.0.2'
+    testImplementation 'junit:junit:4.13.1'
+    implementation 'androidx.appcompat:appcompat:1.6.0'
     implementation 'com.google.android.gms:play-services:12.0.1'
     implementation 'androidx.multidex:multidex:2.0.1'
     //allows you to calculate the route between two locations and displays it on a map.
