@@ -12,7 +12,7 @@ android {
         applicationId "com.sergio.martin.repartomanager"
         minSdkVersion 16
         targetSdkVersion 35
-        versionCode 4
+        versionCode 6
         versionName "1.2"
 
         // Enabling multidex support
